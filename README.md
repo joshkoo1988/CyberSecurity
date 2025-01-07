@@ -12,7 +12,7 @@
   - [2FA for logging into my home lab](insert URL here)
     
 - <b>Python</b>
-  - Python [zip file Brute Force using RockYou.txt](insert URL here)
+  - [zip file brute force](https://github.com/joshkoo1988/zip-cracker)
  
 <h2>📺YouTube Content:(coming soon)</h2>
 
