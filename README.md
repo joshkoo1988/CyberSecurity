@@ -3,6 +3,10 @@
 
 <h2>🔐CyberSecurity Projects:</h2>
 
+- <b>Certifications</b>
+  - Security + (in progress)
+  - Network + (in progress)
+
 - <b> Home Lab</b>
   - [Dell T620 build](insert URL here)
   - [Firewall & Managed Switch set up](insert URL here)
