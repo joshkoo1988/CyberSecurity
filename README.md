@@ -4,6 +4,7 @@
 <h2>🔐CyberSecurity Projects:</h2>
 
 - <b>Certifications</b>
+  - Ohio State University Cyber Security Bootcamp
   - Security + (in progress)
   - Network + (in progress)
 
