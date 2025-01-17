@@ -18,3 +18,8 @@
 - <b>Python</b>
   - [zip file brute force](https://github.com/joshkoo1988/zip-cracker)
  
+- <b>PowerShell</b>
+  - [coming soon](insert URL here)
+
+- <b>Bash</b>
+   - [coming soon](insert URL here)
