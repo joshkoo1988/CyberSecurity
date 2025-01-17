@@ -18,6 +18,3 @@
 - <b>Python</b>
   - [zip file brute force](https://github.com/joshkoo1988/zip-cracker)
  
-<h2>📺YouTube Content:(coming soon)</h2>
-
-
