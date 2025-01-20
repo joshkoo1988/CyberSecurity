@@ -10,9 +10,10 @@
   - Security + (in progress)
   - Network + (in progress)
 
-- <b> Home Lab</b>
+- <b>Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
-  - [PfSense Home Network](https://github.com/joshkoo1988/PfSense-firewall)
+  - [PfSense Install](https://github.com/joshkoo1988/PfSense-firewall)
+  - [PfSense Configuring and trouble shooting](https://github.com/joshkoo1988/configure_PfSense/)
   - [ProxMox install and configure](https://github.com/joshkoo1988/ProxMox/)
     
 - <b>Python</b>
