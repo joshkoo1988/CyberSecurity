@@ -6,21 +6,22 @@
 <h2>🔐CyberSecurity Projects:</h2>
 
 - <b>Certifications</b>
-  - Ohio State University Cyber Security Bootcamp
+  - Ohio State University Cyber Security Boot Camp
   - Security + (in progress)
   - Network + (in progress)
+  - [TryHackMe](https://tryhackme.com/r/p/joshkoo1988)
 
 - <b>Home Lab</b>
   - [Dell T620 HomeLab overview](https://github.com/joshkoo1988/HomeLab)
-  - [PfSense Install](https://github.com/joshkoo1988/PfSense-firewall)
-  - [PfSense Configuring and trouble shooting](https://github.com/joshkoo1988/configure_PfSense/)
-  - [ProxMox install and configure](https://github.com/joshkoo1988/ProxMox/)
-    
+  - [PfSense Guides](https://github.com/joshkoo1988/PfSense)
+  - [ProxMox Guides](https://github.com/joshkoo1988/ProxMox-Guides)
+  
 - <b>Python</b>
-  - [zip file brute force](https://github.com/joshkoo1988/zip-cracker)
+  - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
  
 - <b>PowerShell</b>
   - [coming soon](insert URL here)
 
 - <b>Bash</b>
    - [coming soon](insert URL here)
+
