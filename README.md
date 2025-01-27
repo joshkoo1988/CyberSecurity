@@ -22,8 +22,7 @@
   - [zip cracker](https://github.com/joshkoo1988/zip-cracker)
  
 - <b>PowerShell</b>
-  - [coming soon](insert URL here)
+  - [coming soon](https://github.com/joshkoo1988/powershell)
 
 - <b>Bash</b>
-   - [coming soon](insert URL here)
-
+   - [coming soon](https://github.com/joshkoo1988/bash)
