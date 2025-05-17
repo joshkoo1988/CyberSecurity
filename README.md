@@ -7,7 +7,7 @@
 
 - <b>Certifications</b>
   - Ohio State University Cyber Security Boot Camp
-  - Security + (in progress)
+  - Security + 
   - AWS Cloud Pratictioner
   - [TryHackMe top 2% user](https://tryhackme.com/r/p/joshkoo1988)
 
